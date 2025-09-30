@@ -1,0 +1,1 @@
+This is a simple static clone of supplychain.biz.id for demo purposes. Edit the HTML files to customize.
